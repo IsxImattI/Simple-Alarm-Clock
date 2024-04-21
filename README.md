@@ -8,5 +8,5 @@ Exact Time Match: The alarm triggers exactly when the system clock matches the s
 Requirements
 To run this script, you need Python installed on your system. The script is compatible with Python 3.x and uses the following built-in libraries:
 
-datetime: For handling time operations. \n
+datetime: For handling time operations.
 time: For creating delay to simulate real-time clock updates.
