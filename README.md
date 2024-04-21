@@ -12,7 +12,7 @@ To run this script, you need Python installed on your system. The script is comp
 datetime: For handling time operations.
 time: For creating delay to simulate real-time clock updates.
 
-How to Run the Script
+How to Run the Script:
 Make sure Python is installed on your system.
 Download the script to your local machine.
 Open your command line interface (CLI).
